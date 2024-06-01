@@ -107,6 +107,6 @@ We welcome contributions to the autoGIT-cli project! Here are a few ways you can
 4. Spread the Word: Share the project with others, star the repository on GitHub, and let others know about your experience using autoGIT-cli.
 
 ___
-medium Blog link : [click here](https://ky13-troj.medium.com/simplifying-github-operations-with-autogit-cli-44534d3c2b500
+medium Blog link : (Click Here)[https://ky13-troj.medium.com/simplifying-github-operations-with-autogit-cli-44534d3c2b50]
 
 Happy Coding :3
