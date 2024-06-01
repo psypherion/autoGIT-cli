@@ -97,18 +97,6 @@ Current Issues :
 
 ____
 
-## Structure
-autoGIT-cli/
-│
-├── README.md
-├── run.sh
-├── git_uploader.py
-├── files.py
-├── autoGIT.py
-├── secrets.ini
-├── LICENSE
-
-___
 
 # Contribution
 We welcome contributions to the autoGIT-cli project! Here are a few ways you can contribute:
